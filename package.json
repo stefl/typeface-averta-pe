@@ -1,17 +1,16 @@
 
 {
-  "name": "typeface-lexend-deca",
+  "name": "typeface-averta-pe",
   "version": "0.0.0",
-  "description": "Lexend Deca typeface",
+  "description": "Averta PE typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
     "font",
     "font family",
-    "google fonts",
     "lexend-deca"
   ],
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Stef Lewandowski <stef@stef.io>",
   "license": "MIT",
-  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/lexend-deca"
+  "repository": "https://github.com/stefl/typeface-averta-pe"
 }
